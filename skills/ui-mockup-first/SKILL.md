@@ -1,6 +1,6 @@
 ---
 name: ui-mockup-first
-description: Generates visual mockups of web views BEFORE writing any logic or backend code. Works with any stack (HTML, Laravel, EJS, HBS). Scans the project first to detect stack, layouts, and components, then builds the mockup using what's already there. Use when the user wants to see a screen or flow before building it, or before adding a feature to an existing module. Triggers: "show me how it would look", "mockup of", "design the view for", "before coding I want to see", "screen for [module]", "view for [module]".
+description: 'Generates visual mockups of web views BEFORE writing any logic or backend code. Works with any stack (HTML, Laravel, EJS, HBS). Scans the project first to detect stack, layouts, and components, then builds the mockup using what already exists. Use when the user wants to see a screen or flow before building it, or before adding a feature to an existing module. Triggers: show me how it would look, mockup of, design the view for, before coding I want to see, screen for a module, view for a module.'
 ---
 
 # UI Mockup First
