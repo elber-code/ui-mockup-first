@@ -92,6 +92,15 @@ Construyes el backend real — el mockup es la especificación
 
 ## Instalación
 
-Copia el `SKILL.md` del skill que quieras en la carpeta `.claude/` de tu proyecto.
+```bash
+# Instala todos los skills (te pregunta cuál elegir)
+npx skills add https://github.com/elber-code/ui-mockup-first
+
+# Solo el skill base (cualquier stack)
+npx skills add https://github.com/elber-code/ui-mockup-first --skill ui-mockup-first
+
+# Solo el skill de Laravel
+npx skills add https://github.com/elber-code/ui-mockup-first --skill ui-mockup-first-laravel
+```
 
 > 📄 [English version → README.md](./README.md)
