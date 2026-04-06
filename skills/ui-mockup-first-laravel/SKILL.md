@@ -1,16 +1,6 @@
 ---
 name: ui-mockup-first-laravel
-description: >
-  Generates Laravel Blade mockups of web views/screens BEFORE writing any logic, backend, or database code.
-  Scans the existing Laravel project first: detects layouts, existing components, CSS framework, and naming
-  conventions — then builds the mockup on top of what's already there.
-  Use it when the user wants to see how a screen, flow, or module will look before building it in Laravel.
-  Triggers: "show me how it would look", "make a view for", "mockup of", "I want to see the screen for",
-  "design the view for", "how would it look", "first I want to validate", "make the design for",
-  "before coding I want to see", "screen for [module]", "view for [module]".
-  Also applies if the user describes a new flow and wants to validate it visually before coding.
-  The goal is to save tokens and time: iterate over Blade views until the idea is approved,
-  then build with real logic.
+description: Generates Laravel Blade mockups BEFORE writing any controllers, models, or database code. Scans the existing project first — detects layouts, Blade components, CSS framework, and conventions — then builds the mockup on top of what's already there. Use when the user wants to see a screen or flow before building it in Laravel, or before adding a feature to an existing module. Triggers: "show me how it would look", "mockup of", "design the view for", "before coding I want to see", "screen for [module]", "view for [module]".
 ---
 
 # UI Mockup First — Laravel
